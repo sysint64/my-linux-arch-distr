@@ -1,0 +1,54 @@
+! Powerarrow Darker
+
+*.background: #1A1A1A
+*.foreground: #DDDDFF
+
+!black
+*color0: #1A1A1A
+*color8: #6E6E6E
+
+!red
+*color1: #AF5360
+*color9: #EA6F81
+
+!green
+*color2: #447019
+*color10: #7BAB4E
+
+!yellow
+*color3: #D8D782
+*color11: #CFCD63
+
+!blue
+*color12: #92ADCB
+*color4: #648BB5
+
+!magenta
+*color5: #E5C8D6
+*color13: #CB92AD
+
+!cyan
+*color6: #406E6F
+*color14: #81DCDE
+
+!white
+*color7: #C6C6E5
+*color15: #DDDDFF
+
+! *faceName: Liberation Mono:size=10:antialias=false
+*faceName: Anonymice Powerline:size=12:antialias=true
+*font: 7x13
+Xft.antialias:        true
+XTerm*selectToClipboard:true
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! Copyright: Rasmus Steinke
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #273238, #273238, #1e2529
+rofi.color-normal: #273238, #c1c1c1, #273238, #394249, #ffffff
+rofi.color-active: #273238, #80cbc4, #273238, #394249, #80cbc4
+rofi.color-urgent: #273238, #ff1844, #273238, #394249, #ff1844
+
+rofi.font: mono 10

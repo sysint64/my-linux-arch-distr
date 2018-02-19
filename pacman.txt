@@ -1,0 +1,11 @@
+awesome
+okular
+mirage
+pcmanfm
+emacs
+pulseaudio
+libreoffice-still
+dlang-dmd
+speedcrunch
+firefox
+git

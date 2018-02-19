@@ -1,0 +1,6 @@
+[user]
+	name = Andrey Kabylin
+	email = andrey@kabylin.ru
+[core]
+	autocrlf = input
+	editor = nano
