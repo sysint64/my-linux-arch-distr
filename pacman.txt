@@ -1,6 +1,5 @@
 awesome
 okular
-mirage
 pcmanfm
 emacs
 pulseaudio
@@ -9,3 +8,11 @@ dlang-dmd
 speedcrunch
 firefox
 git
+xrdb
+xorg-xrandr
+vlc
+zip
+unzip
+gnome-screenshot
+htop
+ext4magic

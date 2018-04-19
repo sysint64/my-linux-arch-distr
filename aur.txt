@@ -1,4 +1,9 @@
+pacaur
+mirage
 sublime-text-dev
 dub
 dcd
+dscanner
+pavucontrol
 ttf-anonymice-powerline-git
+ttf-inconsolata-g
